@@ -35,7 +35,8 @@ section#login {
   transform: translate(-50%, -50%);
   overflow: hidden;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.464);
-  transition: 0.6;
+  transition: .6s;
+  -o-transition-timing-function: ease;
 }
 section#login > div#imagem {
   background: url(../imagens/predio.jpg) no-repeat;
