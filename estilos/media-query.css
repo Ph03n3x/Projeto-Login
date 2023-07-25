@@ -31,10 +31,10 @@ grandes telas: Acima de 1200px
       }
       
       div#formulario > h1 {
-        font-size: 2em;
+        font-size: 1.2em;
       }
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
     }
     
   section#login {
